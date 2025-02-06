@@ -29,5 +29,15 @@ The model revealed a significant correlation between specific features and used 
 | Title status    | Stock more cars with a clean title            | Strong positive    | Vehicles with a clean title are valued more highly
 
 ### Actionable Insights
+Based on the features found to have a significant impact on used car pricing, here are some key recommendations:
 
-##  Next steps and recommendations
+- **Emphasize the Year of Manufacture:** Clearly highlight the vehicle’s year of manufacture in listings and marketing, as it plays a major role in determining price.
+
+- **Focus on Truck Types:** Cater to the demand for trucks, as they tend to have higher resale value.
+
+- **Promote Clean Titles:** Since title status has a significant effect on pricing, focus on showcasing and promoting vehicles with clean titles.
+
+- **Manage Mileage:** Given the importance of odometer readings, prioritize vehicles with lower mileage or offer clear explanations and justifications for those with higher mileage.
+
+##  Next steps
+One of the main challenges was dealing with the categorical features. Many of these features had several distinct values, with some lacking any ordinal relationships. Further exploration is needed to identify the best approach for handling categorical data.
